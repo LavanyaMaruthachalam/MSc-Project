@@ -60,6 +60,6 @@ Cultural Preservation: By translating and explaining Thirukkural verses, the sys
 Interactive Learning: The AI-based responses provide an interactive way to learn about the Thirukkural, making it more engaging for users.
 
 
-Conclusion
+**Conclusion**
 
 The Thirukkural Response System is a blend of traditional literary wisdom and modern AI technology, aiming to make the profound teachings of Thirukkural accessible and understandable to a global audience. Through advanced natural language processing and translation capabilities, it not only preserves the essence of the Thirukkural but also adapts it to contemporary contexts, providing valuable insights for today's world.
