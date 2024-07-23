@@ -1,5 +1,8 @@
-Thirukkural Response System
-Overview
+**Thirukkural Response System**
+
+**Overview**
+
+
 The Thirukkural Response System is an advanced AI-based project designed to interpret and provide responses based on the classical Tamil literature, Thirukkural. It integrates traditional rule-based methods with state-of-the-art natural language processing techniques to deliver meaningful and contextually accurate explanations and translations of the Thirukkural verses.
 Objectives
 •	Preservation and Dissemination: To preserve the wisdom of Thirukkural and make it accessible to a broader audience through modern technological means.
